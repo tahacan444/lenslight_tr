@@ -10,4 +10,3 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log(`Applicaiton running on port :${port}`);
 });
-console.log("hello world");
